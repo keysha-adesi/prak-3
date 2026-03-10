@@ -34,5 +34,4 @@ int main(){
     //status = status_lulus(rerata);
 
     cout << "status kelulusan = "<<Status_lulus(rerata)<<"  ,degan nilai rerata = "<<rerata<<endl;
-    
 }
